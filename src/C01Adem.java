@@ -3,6 +3,8 @@ public class C01Adem {
         System.out.println("Hi to everyne");
         System.out.println("Hi to everyne");
         System.out.println("Hi to everyne");
+        System.out.println("Hi to everyne");
+        System.out.println("Hi to everyne");
 
 
     }
